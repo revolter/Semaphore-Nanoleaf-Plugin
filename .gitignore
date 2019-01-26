@@ -76,3 +76,7 @@ Temporary Items
 .apdisk
 
 # End of https://www.gitignore.io/api/c++,cmake,macos
+
+# Custom
+
+!/Utilities/libPluginUtilities.so
