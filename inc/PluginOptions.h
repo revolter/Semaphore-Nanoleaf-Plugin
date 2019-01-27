@@ -1,7 +1,7 @@
 #ifndef PLUGIN_OPTIONS_H
 #define PLUGIN_OPTIONS_H
 
-const char* pluginOptionsJsonString = "{\"options\": [{\"defaultValue\": 15, \"minValue\": 1, \"type\": \"int\", \"name\": \"transTime\", \"maxValue\": 600}]}";
+const char* pluginOptionsJsonString = "{\"options\": [{\"defaultValue\": 50, \"minValue\": 1, \"type\": \"int\", \"name\": \"transTime\", \"maxValue\": 600}]}";
 
 #ifdef __cplusplus
 extern "C" {
